@@ -1,9 +1,17 @@
 ---
 title: "Projects"
 ---
-
-## Project 1
-
-## Project 2
-
-## Project 3
+## Dr. Nathan Furey's Fish and Movement Ecology Lab
+### Project 1
+Energy Density Details Here
+### Project 2
+SURF Here
+### Project 3
+Smelt Here
+## Dr. Karolina Kwasek's Aquaculture Lab
+### Project 4
+Current Zebrafish Study Here
+### Project 5
+URA Here
+## Upcoming Projects
+### Development of Commercial Scallop Aquaculture
